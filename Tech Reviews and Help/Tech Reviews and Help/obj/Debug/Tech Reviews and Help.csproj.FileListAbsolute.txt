@@ -10,3 +10,9 @@ c:\users\crua9\documents\visual studio 2015\Projects\Tech Reviews and Help\Tech 
 C:\Users\crua9\Documents\GitHub\Basic-browser\Tech Reviews and Help\Tech Reviews and Help\bin\Debug\Tech Reviews and Help.exe.config
 C:\Users\crua9\Documents\GitHub\Basic-browser\Tech Reviews and Help\Tech Reviews and Help\obj\Debug\Tech Reviews and Help.exe
 C:\Users\crua9\Documents\GitHub\Basic-browser\Tech Reviews and Help\Tech Reviews and Help\obj\Debug\Tech Reviews and Help.pdb
+C:\Users\crua9\Documents\GitHub\Basic-browser\Tech Reviews and Help\Tech Reviews and Help\bin\Debug\Tech Reviews and Help.exe
+C:\Users\crua9\Documents\GitHub\Basic-browser\Tech Reviews and Help\Tech Reviews and Help\bin\Debug\Tech Reviews and Help.pdb
+C:\Users\crua9\Documents\GitHub\Basic-browser\Tech Reviews and Help\Tech Reviews and Help\obj\Debug\Tech Reviews and Help.csprojResolveAssemblyReference.cache
+C:\Users\crua9\Documents\GitHub\Basic-browser\Tech Reviews and Help\Tech Reviews and Help\obj\Debug\Tech_Reviews_and_Help.Form1.resources
+C:\Users\crua9\Documents\GitHub\Basic-browser\Tech Reviews and Help\Tech Reviews and Help\obj\Debug\Tech_Reviews_and_Help.Properties.Resources.resources
+C:\Users\crua9\Documents\GitHub\Basic-browser\Tech Reviews and Help\Tech Reviews and Help\obj\Debug\Tech Reviews and Help.csproj.GenerateResource.Cache

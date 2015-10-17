@@ -104,6 +104,11 @@ namespace Tech_Reviews_and_Help
         {
             webBrowser1.Navigate("https://github.com/crua9/Basic-browser");
         }
+
+        private void videoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            webBrowser1.Navigate("https://youtu.be/mBzFE8NlhUU");
+        }
     }
 
 }
